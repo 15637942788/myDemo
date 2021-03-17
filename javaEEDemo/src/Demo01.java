@@ -5,5 +5,8 @@
  * @describe: 加入git的第一个提交程序
  */
 public class Demo01 {
+    public static void main(String[] args) {
+        System.out.println("Hello Word!");
+    }
 
 }
